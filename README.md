@@ -1,6 +1,6 @@
-# STRIVORA — Multi-Sport Hub
+# SportsVerse — Multi-Sport Hub
 
-STRIVORA is a multi-sport web application for exploring cricket, football, basketball and volleyball. It combines sport-specific data pages with interactive sports discovery and quiz/challenge experiences.
+SportsVerse is a multi-sport web application for exploring cricket, football, basketball and volleyball. It combines sport-specific data pages with interactive sports discovery and quiz/challenge experiences.
 
 > **Project status:** The frontend and Express API proxy are implemented. Live data access depends on valid provider API credentials and the availability/plan limits of the connected APIs. The project ZIP reviewed for this README did not include the root `package.json`, so verify the exact frontend scripts and dependency versions in your working repository before relying on the commands below.
 
@@ -231,7 +231,7 @@ A simple health check is available at:
 http://localhost:5000/
 ```
 
-The server returns a JSON message indicating that the STRIVORA Cricket API server is running.
+The server returns a JSON message indicating that the SportsVerse Cricket API server is running.
 
 ### Start the frontend
 
